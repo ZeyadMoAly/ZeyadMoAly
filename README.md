@@ -18,6 +18,13 @@
 
 ---
 
+## 💬 Quote I Live By
+> "The quieter you become, the more you are able to hear."  
+> — Anonymous Hacker
+
+---
+
+
 ## ⚔️ Skills & Tools (with icons)
 
 <p align="left">
@@ -29,9 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="45" height="45" />
-  <a href="https://github.com/ZeyadMoAly">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-white.svg" width="45" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45"/>
+          
 
 
 
@@ -42,9 +48,11 @@
   <br><br>
 
   <!-- Security Tools as badges -->
+  <!--
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-F26A22?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-2F9F00?style=for-the-badge&logo=target&logoColor=white" />
+  -->
 </p>
 
 ---
@@ -66,9 +74,11 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ZeyadMoAly&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ZeyadMoAly&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadMoAly&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeyadMoAly&theme=aura&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://nirzak-streak-stats.herokuapp.com/?user=ZeyadMoAly&theme=aura&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadMoAly&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ---
 
