@@ -1,7 +1,8 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Zeyad | Penetration Tester (In Progress)</h1>
+<hr>
 <p align="center">
-  <strong>Cyber Security Enthusiast | CTF Player | Future Penetration Tester</strong>
+  <strong>Cybersecurity Student | CTF Player | Future Penetration Tester</strong>
 </p>
 
 ---
@@ -51,19 +52,19 @@
 <p align="left">
   <img src="https://img.shields.io/badge/TryHackMe-1D3557?style=for-the-badge&logo=tryhackme&logoColor=red" />
   <img src="https://img.shields.io/badge/Hack%20The%20Box-111?style=for-the-badge&logo=hackthebox&logoColor=green" />
-  <img src="https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=flag&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=algolia" width="48%" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ZeyadMoAly&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ZeyadMoAly&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadMoAly&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 
 ## 🔗 Connect With Me
-- 📧 Email: **zeyadkamaleldin.tech@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zeyad-mohamed-aly) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@http://zeyadmoaly.medium.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ZeyadMohamedAly) 
+
 
