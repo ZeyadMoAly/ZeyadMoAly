@@ -29,7 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/white/github.svg" width="45" height="45" alt="GitHub" />
+  <a href="https://github.com/ZeyadMoAly">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-white.svg" width="45" />
+  </a>
+
 
 
 
