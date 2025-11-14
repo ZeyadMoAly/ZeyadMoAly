@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Zeyad | Penetration Tester (In Progress)</h1>
 <p align="center">
-  <strong>Cybersecurity Student | CTF Player | Future Penetration Tester</strong>
+  <strong>Cybersecurity Enthusiast | CTF Player | Future Penetration Tester</strong>
 </p>
 
 ---
@@ -76,7 +76,9 @@
 # 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZeyadMoAly&theme=aura&hide_border=false&include_all_commits=false&count_private=false" />
+  <br>
   <img src="https://nirzak-streak-stats.herokuapp.com/?user=ZeyadMoAly&theme=aura&hide_border=false" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadMoAly&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
@@ -88,7 +90,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Cyber+Security;CTF+Player;Future+Penetration+Tester;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;CTF+Player;Future+Penetration+Tester;Always+Learning+New+Things" />
 </p>
 
 
