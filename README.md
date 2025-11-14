@@ -62,6 +62,21 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyadMoAly&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=ZeyadMoAly&style=for-the-badge&color=blue" />
+
+---
+
+## 📈 GitHub Activity Graph
+[![Zeyad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeyadMoAly&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;CTF+Player;Future+Penetration+Tester;Always+Learning+New+Things" />
+</p>
+---
+
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-mohamed-aly)  
