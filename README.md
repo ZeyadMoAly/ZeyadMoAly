@@ -51,6 +51,8 @@
 
 ## ⚔️ Skills & Technologies
 
+<img width="22%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+
 ### 💻 Programming
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,bash" />
